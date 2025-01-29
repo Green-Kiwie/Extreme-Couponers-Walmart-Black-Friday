@@ -1,3 +1,5 @@
+[Google Doc](https://docs.google.com/document/d/11PVqNs1vNh7yTZpMGESZs4CIAqZG5Aq5prgGL9d3iNo/edit?tab=t.0#heading=h.e80xtegaqdio)
+
 Set up:
 
 1. Clone this repository to desired directory on your local machine
